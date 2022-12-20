@@ -1,3 +1,0 @@
-<img src = "Example-Chart.png" class="center"></img>
-
-<img src = "Example of Clicking on a Term.PNG" class="center"></img>
